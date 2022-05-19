@@ -8,12 +8,12 @@
    <br>
 <h4>
 
- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Rooney404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ali-elmahdy-460558169/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/alielmahdy11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ali.elmahdy.319" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+ ## 🔗 Connect with me:
+<p align="center">
+<a href = "https://www.linkedin.com/in/alielmahdy/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href = "https://twitter.com/Rooney404" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href = "https://www.facebook.com/ali.elmahdy.319" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href = "https://www.instagram.com/alielmahdy11" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
  ## 📊 My Github Stats
 
