@@ -60,7 +60,7 @@
             </a>
         </td>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ali Hassan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alihassan20&langs_count=8.0&count_private=true&theme=reactlayout=compact&hide_border=true&bg_color=0D1117" />
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ali Hassan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alihassan20&langs_count=8.0&count_private=true&layout=compact&hide_border=true&bg_color=ffffff" />
             </a>
         </td>
     </tr>
