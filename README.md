@@ -56,7 +56,7 @@
 <table>
     <tr>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ali Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alihassan20&count_private=true&thide=contribs,prs&show_icons=true&bg_color=ffffff" />
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ali Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alihassan20&count_private=true&thide=contribs,prs&show_icons=true&bg_color=ffffff&hide_border=true" />
             </a>
         </td>
         <td>
