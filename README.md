@@ -1,4 +1,4 @@
-<a href="#"><img style="align:center;"  src="https://camo.githubusercontent.com/e220312fa9d2fc06c614f678b1e628bd867d9f5780bcac14afc2dbe0494f9132/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a557263323873626e4f52474f57356f796f68513036672e676966" /></a>
+
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Ali Hassan El_Mahdy </h1>
  
