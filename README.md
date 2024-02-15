@@ -3,12 +3,14 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Ali Hassan El_Mahdy </h1>
  
  <h4 align="left">
-    Mobile Application Developer  @Kun Academy & @Focus Academy Software Engineer <br>
-    ➮ Strong professional with a bachelor's degree focused in Computer Science from the Faculty of Computer and Information Science / Egypt. <br>
-    ➮ Experience of several years in development with Android and Cross-platform (Flutter) applications and good knowledge of API services. <br>
+
+    Mobile Application Developer  @Kun Academy & @Focus Academy Software Engineer 
+
+    ➮ Strong professional with a bachelor's degree focused in Computer Science from the Faculty of Computer and Information Science / Egypt. 
+    ➮ Experience of several years in development with Android and Cross-platform (Flutter) applications and good knowledge of API services. 
     ➮ Well-versed with different methodologies like Agile (Scrum), Retrofit & Reactive Programming as well. 
-    ➮ Worked with a team with excellent communication skills to accomplish the project with good quality. <br>
-   <br>
+    ➮ Worked with a team with excellent communication skills to accomplish the project with good quality.
+ 
 <h4>
 
  ## 🔗 Connect with me:
