@@ -21,11 +21,26 @@
 <a href = "https://www.instagram.com/alielmahdy11" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 ### Languages and Tools:
+[<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" />]()
+[<img align="left" alt="Dart" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" />]()
 [<img align="left" alt="Dart" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" />]()
 [<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />]()
 [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
 
 [<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />]()
+[<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" />]()
+[<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" />]()
+
+[<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" />]()
+[<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" />]()
+[<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg" />]()
+[<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" />]()
+[<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" />]()
+[<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" />]()
+[<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-line-wordmark.svg" />]()
+[<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" />]()
+
+
 [<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />]()
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
